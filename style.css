@@ -1,0 +1,63 @@
+html,
+body {
+  
+  margin: 0;
+  padding-left: 50px;
+}
+
+
+header{
+        text-align: center;
+        font-size: 70px;
+
+}
+
+h1 {
+    
+    text-decoration-line: black;
+}
+
+h2 {
+    text-align: center;
+    color: gray;
+    
+    
+    
+}
+
+.box {
+    
+    height: 100%;
+    width: 70%;
+    border: solid black ;
+    padding: 10px;
+    margin-left: 250px;
+    border-radius: 10px;
+
+}
+
+.password-box {
+    float: center;
+    padding-left: 100px;
+   
+}
+
+#text {
+    align-items: center;
+    border: dashed grey;
+    border-radius: 10px;
+    font-size: 30px;
+    margin: 100px;
+    padding: 150px;
+    width: 50%;
+    text-align: center;
+    
+}
+
+.button {
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    width: 400px;
+    height: 50px;
+    margin-left: 450px;
+}

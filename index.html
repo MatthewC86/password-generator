@@ -8,20 +8,22 @@
     <title>New Password</title>
 </head>
 <body>
+    
 <header>Password Generator</header>
-
+<!-- begin the construction of the password box -->
 <div class = box>
+    <!-- here is the heading of the box -->
     <h1>Generate a Random Password!</h1>
     <div class = random-password>
-        <textarea readonly id = "text" placeholder="Your Password Here"></textarea>
-    </div>
-
-        <button id = Generator class="button">Generate Password</button>
-
-    
+        <!-- this text will display by default, until a pass is generated -->
+        <textarea readonly id = "text"></textarea>
+    </div>    
+    <footer>
+        <button id = "generate" class="btn">Generate Password</button>
+    </footer>
 </div>
 
 
-    
+   <script src="script.js"></script>
 </body>
 </html>

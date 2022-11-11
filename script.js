@@ -84,13 +84,7 @@
  }
 
 
- 
-
-
-
-
-
- //Password going to text box
+    //Password going to text box
     function writePassword(){
         var password = generatePassword();
         var passwordText = document.querySelector("#password")

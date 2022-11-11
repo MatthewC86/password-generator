@@ -8,3 +8,4 @@ We then ask what specific characters were to be used with the password then post
 
 
 
+![image](https://user-images.githubusercontent.com/114010089/201252521-5c4c2fc9-3881-4e71-88d1-c2fd84765b8c.png)
